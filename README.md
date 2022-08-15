@@ -91,13 +91,13 @@ Open terminal / command prompt and type below command:
 - Then execute the myexe file, if you're using windows then type myexe or using Linux distros use ./myexe 
 
 # Angular Applications : 
-Step-1: Install angular cli
-- npm install - g @angular/cli
-Step-2: Create new project by this command
-- Choose yes for routing option and, CSS or SCSS.
+- Step-1: Install angular cli :
+npm install - g @angular/cli
+- Step-2: Create new project by this command : 
+Choose yes for routing option and, CSS or SCSS 
 - ng new Angular_Application
-Step-3: Run server and see your application in action
-- ng serve -o 
+- Step-3: Run server and see your application in action
+: ng serve -o 
 
 # Automation_Programs : 
 Step-1: To run the script:
