@@ -47,7 +47,7 @@ Description :
 This project is used to perform process monitoring activity. This Project is divided into 2 parts as Packing and Unpacking. By using this project we can fetch data from all files and merge it into one file. As well as we can also extract all packed file whenever required.
 
 The main reason to do this project is to understand File system call like open() , creat() , read() , write(),etc
-Application_Name: File Packer-Unpacker
+- Application_Name: File Packer-Unpacker
 
 # Project : Generic Standard Template Library
 
@@ -115,3 +115,19 @@ Technology : Java
 Description : 
 - This is my first ever Java project.
 - Client-Server messaging system which can be used to communicate between local client and a remote server using java sockets and streams.
+
+# Java_Applications :
+Step-1: To run java programs
+- javac Demo.java
+- java Demo
+
+# MachineLearning_Application : 
+Steps:
+- Download and install Python SciPy and get the most useful package for machine learning in Python.
+- Load a dataset and understand it’s structure using statistical summaries and data visualization.
+- Create machine learning models, pick the best and build confidence that the accuracy is reliable.
+- We can also install by using cmd : for ex- pip install numpy 
+
+# Python_Programs
+Step: To run it on command line, type the following
+- python Demo.py
