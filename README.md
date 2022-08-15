@@ -1,6 +1,3 @@
-![Screenshot (468)](https://user-images.githubusercontent.com/95733967/184626427-c76e2a8e-6bfa-46bf-981d-c9674d281279.png) ![Screenshot (468)](https://user-images.githubusercontent.com/95733967/184626427-c76e2a8e-6bfa-46bf-981d-c9674d281279.png)
-
-
 # Project : Knowledge Sharing Portal
 
 Technology: Angular , Firebase Hosting
